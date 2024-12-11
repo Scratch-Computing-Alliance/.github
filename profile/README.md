@@ -11,6 +11,6 @@ Some honourable contributors to the Scratch Computing Alliance are found here:
 
 [_c1919](https://scratch.mit.edu/users/_c1919/)
 
-[T_Cat9000_2](https://scratch.mit.edu/users/T_cat900_2)
+[T_Cat9000_2](https://scratch.mit.edu/users/T_cat9000_2)
 
 [Scratch_Fakemon](https://scratch.mit.edu/users/Scratch_Fakemon/)
