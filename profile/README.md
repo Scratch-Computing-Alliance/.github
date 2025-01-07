@@ -3,7 +3,7 @@ Hello there! This is an organization uniting various scratchers to research abou
 
 ![Logo](https://github.com/Scratch-Computing-Alliance/.github/blob/main/profile/thumbnail.png)
 # Other links
-[Official Site](https://scratch-computing-alliance.github.io/official_site/site.htm)
+[Official Site](https://scratch-computing-alliance.github.io/)
 
 [Members](https://scratch.mit.edu/studios/35370452/curators)
 # Hall of Fame
