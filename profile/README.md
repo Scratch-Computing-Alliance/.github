@@ -1,7 +1,7 @@
 # Info
 Hello there! This is an organization uniting various scratchers to research about operating systems and scratch-powered software. This organization is used for software made outside of scratch. The [Official Studio](https://scratch.mit.edu/studios/35370452/) can be found here. Collaboration and Free and Open Source Software are key parameters of the alliance.
 
-![Logo](https://github.com/Scratch-Computing-Alliance/.github/blob/main/profile/thumbnail.png)
+![Logo](https://github.com/Scratch-Computing-Alliance/SCA-Assets/Img/Instance2)
 # Other links
 [Official Site](https://scratch-computing-alliance.github.io/)
 
